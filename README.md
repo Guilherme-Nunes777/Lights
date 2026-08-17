@@ -1,24 +1,24 @@
 # Lights
+
 ## Sumário
 
-- 1. Autoria e Créditos
-- 2. Introdução
-- 3. Spot Light
+- 1. Introdução
+- 2. Spot Light
+  - 2.1 Conceito e Propriedades
+  - 2.2 Cenário 1 — Iluminação de Postes / Fachada
+  - 2.3 Cenário 2 — Faróis do Veículo (Carro)
+- 3. Point Light
   - 3.1 Conceito e Propriedades
-  - 3.2 Cenário 1 — Iluminação de Postes / Fachada
-  - 3.3 Cenário 2 — Faróis do Veículo (Carro)
-- 4. Point Light
+  - 3.2 Cenário 1 — Iluminação Ambiente Neutra
+  - 3.3 Cenário 2 — Iluminação Estilizada (Vermelho e Azul)
+  - 3.4 Comparativo de Impacto Visual — Point Light
+- 4. Directional Light
   - 4.1 Conceito e Propriedades
-  - 4.2 Cenário 1 — Iluminação Ambiente Neutra
-  - 4.3 Cenário 2 — Iluminação Estilizada (Vermelho e Azul)
-  - 4.4 Comparativo de Impacto Visual — Point Light
-- 5. Directional Light
-  - 5.1 Conceito e Propriedades
-  - 5.2 Cenário 1 — Luz do Dia (Midday / Afternoon)
-  - 5.3 Cenário 2 — Pôr do Sol (Sunset / Twilight)
-- 6. Matriz Comparativa de Luzes na Unity
-- 7. Considerações Técnicas de Configuração
-- 8. Conclusão
+  - 4.2 Cenário 1 — Luz do Dia (Midday / Afternoon)
+  - 4.3 Cenário 2 — Pôr do Sol (Sunset / Twilight)
+- 5. Matriz Comparativa de Luzes na Unity
+- 6. Considerações Técnicas de Configuração
+- 7. Conclusão
 
 ---
 
